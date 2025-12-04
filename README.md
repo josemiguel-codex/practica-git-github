@@ -5,3 +5,5 @@ Linea final añadida para control.
 # Conexion SSH realizada
 ## Conexion SSH realizada
 ## Conexion SSH realizada
+- [x] Crear repo local
+- [x] Conexión SSH
